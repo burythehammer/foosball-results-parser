@@ -77,28 +77,24 @@ matt.long [7:29 PM]
 @foosbot result @fahran @enekofb vs @tristan @matt.long 10-8
 
 
-henry.barnett [7:36 PM]
-@foosbot result @fahran @Henry.barnett vs @maartens @mateus.pimenta.oc 10:5
-
-
 fahran [7:36 PM]
 @foosbot result @fahran @henry.barnett vs @maartens @mateus.pimenta.oc 10-5
 
 
 fahran [7:44 PM]
-@foosbot result @tristan @davibo vs @maartens @enekofb 10:7
+@foosbot result @tristan @davibo vs @maartens @enekofb 10-7
 
 
 fahran [7:50 PM]
-@foosbot result @tristan @fahran vs @davibo @mateus.pimenta.oc  10:6
+@foosbot result @tristan @fahran vs @davibo @mateus.pimenta.oc  10-6
 
 
 fahran [7:57 PM]
-@foosbot result @tristan @fahran vs @davibo @maartens  10:5
+@foosbot result @tristan @fahran vs @davibo @maartens  10-5
 
 
 fahran [8:04 PM]
-@foosbot result @maartens  @fahran vs @davibo @tristan 10:4
+@foosbot result @maartens  @fahran vs @davibo @tristan 10-4
 
 
 ----- 2016-04-25 -----
@@ -435,10 +431,6 @@ henry.barnett [5:21 PM]
 
 fahran [6:16 PM]
 @foosbot result @maartens @sam-e vs @brett.mack @fahran 3-10
-
-
-davibo [6:30 PM]
-@foosbot result @jeanmarie.ferdegue vs @davibo 6-10
 
 
 matt.long [7:09 PM]
