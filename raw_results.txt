@@ -1,608 +1,572 @@
 ----- 2016-04-22 -----
 
-antoniocobo [1:20 PM]
-@foosbot result @tareq @andrew.morgan  vs @bspaans  @antoniocobo 10-9
-
-fahran [1:51 PM]
-@foosbot result @fahran @carloslindo vs @antoniocobo @tristan 10-6
-
-matt.long [3:04 PM]
-@foosbot result @bspaans @henry.barnett vs @matt.long @mateus.pimenta.oc 4-10
-
-matt.long [3:05 PM]
-@foosbot result @bspaans @matt.long vs @henry.barnett @mateus.pimenta.oc 6-10
-
-matt.long [5:36 PM]
-@foosbot result @antoniocobo @matt.long vs @henry.barnett @enekofb 10-4
-
-matt.long [5:36 PM]
-@foosbot result @antoniocobo @matt.long vs @henry.barnett @enekofb 9-10
-
-henry.barnett [5:52 PM]
-@foosbot result @henry.barnett @tareq vs @tristan @maartens 10-9
-
-matt.long [5:54 PM]
-@foosbot result @henry.barnett @tareq vs @tristan @maartens 10-9
-
-carloslindo [6:08 PM]
-@foosbot result @tareq @sam-e  vs @mateus.pimenta.oc @carloslindo 5-10
-
-carloslindo [6:09 PM]
-@foosbot result @tristan @maartens  vs @sam-e @carloslindo 10-5
-
-henry.barnett [6:11 PM]
-@foosbot result @henry.barnett @tareq vs @tristan @maartens 10-6
-
-
-henry.barnett [6:11 PM]
-@foosbot result @tareq @sam-e  vs @mateus.pimenta.oc @carloslindo 5-10
-
-
-henry.barnett [6:11 PM]
-@foosbot result @tristan @maartens  vs @sam-e @carloslindo 10-5
-
-
-matt.long [6:11 PM]
-@foosbot result @tristan @maartens  vs @sam-e @carloslindo 10-5
-
-
-matt.long [6:26 PM]
-@foosbot result @mateus.pimenta.oc @matt.long vs @tareq @sam-e 7-10
-
-
-matt.long [6:32 PM]
-@foosbot result @tristan @fahran vs @sam-e @maartens 10-8
-
-
-matt.long [6:42 PM]
-@foosbot result @fahran @henry.barnett vs @mateus.pimenta.oc @davibo 10-8
-
-
-fahran [6:52 PM]
-@foosbot result @davibo @maartens vs @henry.barnett @tristan 7-10
-
-
-matt.long [7:01 PM]
-@foosbot result @fahran @maartens vs @enekofb @mateus.pimenta.oc 10-6
-
-matt.long [7:07 PM]
-@foosbot result @fahran @davibo vs @henry.barnett @tristan 10-5
-
-
-matt.long [7:18 PM]
-@foosbot result @maartens @mateus.pimenta.oc vs @henry.barnett @davibo 10-9
-
-
-matt.long [7:29 PM]
-@foosbot result @fahran @enekofb vs @tristan @matt.long 10-8
-
-
-fahran [7:36 PM]
-@foosbot result @fahran @henry.barnett vs @maartens @mateus.pimenta.oc 10-5
-
-
-fahran [7:44 PM]
-@foosbot result @tristan @davibo vs @maartens @enekofb 10-7
-
-
-fahran [7:50 PM]
-@foosbot result @tristan @fahran vs @davibo @mateus.pimenta.oc  10-6
-
-
-fahran [7:57 PM]
-@foosbot result @tristan @fahran vs @davibo @maartens  10-5
-
-
-fahran [8:04 PM]
-@foosbot result @maartens  @fahran vs @davibo @tristan 10-4
-
+fahran [13:51]
+@foosbot: result @fahran @carloslindo vs @antoniocobo @tristan 10-6
+matt.long [15:04]
+@foosbot: result @bspaans @henry.barnett vs @matt.long @mateus.pimenta.oc 4-10
+matt.long [15:05]
+@foosbot: result @bspaans @matt.long vs @henry.barnett @mateus.pimenta.oc 6-10
+matt.long [17:36]
+@foosbot: result @antoniocobo @matt.long vs @henry.barnett @enekofb 10-4
+matt.long [17:36]
+@foosbot: result @antoniocobo @matt.long vs @henry.barnett @enekofb 9-10
+henry.barnett [17:52]
+@foosbot: result @henry.barnett @tareq vs @tristan @maartens 10-9
+matt.long [17:54]
+@foosbot: result @henry.barnett @tareq vs @tristan @maartens 10-9
+carloslindo [18:08]
+@foosbot: result @tareq @sam-e  vs @mateus.pimenta.oc @carloslindo 5-10
+carloslindo [18:09]
+@foosbot: result @tristan @maartens  vs @sam-e @carloslindo 10-5
+henry.barnett [18:11]
+@foosbot: result @henry.barnett @tareq vs @tristan @maartens 10-6
+henry.barnett [18:11]
+@foosbot: result @tareq @sam-e  vs @mateus.pimenta.oc @carloslindo 5-10
+henry.barnett [18:11]
+@foosbot: result @tristan @maartens  vs @sam-e @carloslindo 10-5
+matt.long [18:11]
+@foosbot: result @tristan @maartens  vs @sam-e @carloslindo 10-5
+henry.barnett [18:11]
+@foosbot: result @henry.barnett @tareq vs @tristan @maartens 10-9
+matt.long [18:26]
+@foosbot: result @mateus.pimenta.oc @matt.long vs @tareq @sam-e 7-10
+matt.long [18:32]
+@foosbot: result @tristan @fahran vs @sam-e @maartens 10-8
+matt.long [18:42]
+@foosbot: result @fahran @henry.barnett vs @mateus.pimenta.oc @davibo 10-8
+fahran [18:52]
+@foosbot: result @davibo @maartens vs @henry.barnett @tristan 7-10
+matt.long [19:01]
+@foosbot: result @fahran @maartens vs @enekofb @mateus.pimenta.oc 10-6
+matt.long [19:07]
+@foosbot: result @fahran @davibo vs @henry.barnett @tristan 10-5
+matt.long [19:18]
+@foosbot: result @maartens @mateus.pimenta.oc vs @henry.barnett @davibo 10-9
+matt.long [19:29]
+@foosbot: result @fahran @enekofb vs @tristan @matt.long 10-8
+fahran [19:36]
+@foosbot: result @fahran @henry.barnett vs @maartens @mateus.pimenta.oc 10-5
+fahran [19:44]
+@foosbot: result @tristan @davibo vs @maartens @enekofb 10-7
+fahran [19:50]
+@foosbot: result @tristan @fahran vs @davibo @mateus.pimenta.oc  10-6
+fahran [19:57]
+@foosbot: result @tristan @fahran vs @davibo @maartens  10-5
+fahran [20:04]
+@foosbot: result @maartens  @fahran vs @davibo @tristan 10-4
 
 ----- 2016-04-25 -----
 
-matt.long [9:55 AM]
-@foosbot result @tristan @davibo vs @maartens @enekofb 10-7
-
-
-matt.long [9:55 AM]
-@foosbot result @tristan @fahran vs @davibo @mateus.pimenta.oc  10-6
-
-
-matt.long [9:55 AM]
-@foosbot result @tristan @fahran vs @davibo @maartens  10-5
-
-matt.long [9:55 AM]
-@foosbot result @maartens  @fahran vs @davibo @tristan 10-4
-
-antoniocobo [12:40 PM]
-@foosbot result @tareq @nickiwatt vs @maartens @antoniocobo 2-10
-
-maartens [12:58 PM]
-@foosbot result @maartens @brett.mack vs @steve @mateus.pimenta.oc 5-10
-
-maartens [12:59 PM]
-@foosbot result @maartens @brett.mack vs @steve @mateus.pimenta.oc 3-10
-
-matt.long [12:59 PM]
-@foosbot result @tristan @matt.long vs @fahran @norbert.annus 6-10
-
-
-tristan [1:01 PM]
-@foosbot result @tristan @fahran vs @carloslindo @norbert.annus 10-1
-
-
-maartens [1:25 PM]
-@foosbot result @steve @maartens vs @brett.mack @antoniocobo 3-10
-
-maartens [1:25 PM]
-@foosbot result @steve @maartens vs @brett.mack @antoniocobo 8-10
-
-
-antoniocobo [3:04 PM]
-@foosbot result @steve @maartens vs @brett.mack @antoniocobo 3-10
-
-
-antoniocobo [3:04 PM]
-@foosbot result @steve @maartens vs @brett.mack @antoniocobo 8-10
-
-
-matt.long [5:15 PM]
-@foosbot result @matt.long @enekofb vs @mateus.pimenta.oc @andrew.morgan 10-5
-
-
-davibo [5:35 PM]
-@foosbot result @fahran @maartens vs @davibo @brett.mack 10-3
-
-davibo [5:35 PM]
-@foosbot result @fahran @maartens vs @davibo @brett.mack 10-5
-
-
-davibo [5:35 PM]
-@foosbot result @steve @maartens vs @davibo @brett.mack 1-10
-
-
-mateus.pimenta.oc [6:14 PM]
-@foosbot result @matt.long @enekofb vs @mateus.pimenta.oc @andrew.morgan 10-5
-
-
+matt.long [09:55]
+@foosbot: result @tristan @davibo vs @maartens @enekofb 10-7
+matt.long [09:55]
+@foosbot: result @tristan @fahran vs @davibo @mateus.pimenta.oc  10-6
+matt.long [09:55]
+@foosbot: result @tristan @fahran vs @davibo @maartens  10-5
+matt.long [09:55]
+@foosbot: result @maartens  @fahran vs @davibo @tristan 10-4
+antoniocobo [12:40]
+@foosbot: result @tareq @nickiwatt vs @maartens @antoniocobo 2-10
+maartens [12:58]
+@foosbot: result @maartens @brett.mack vs @steve @mateus.pimenta.oc 5-10
+maartens [12:59]
+@foosbot: result @maartens @brett.mack vs @steve @mateus.pimenta.oc 3-10
+matt.long [12:59]
+@foosbot: result @tristan @matt.long vs @fahran @norbert.annus 6-10
+tristan [13:01]
+@foosbot: result @tristan @fahran vs @carloslindo @norbert.annus 10-1
+antoniocobo [13:25]
+@foosbot: result @steve @maartens vs @brett.mack @antoniocobo 3-10
+antoniocobo [13:25]
+@foosbot: result @steve @maartens vs @brett.mack @antoniocobo 8-10
+antoniocobo [15:04]
+@foosbot: result @steve @maartens vs @brett.mack @antoniocobo 3-10
+antoniocobo [15:04]
+@foosbot: result @steve @maartens vs @brett.mack @antoniocobo 8-10
+matt.long [17:15]
+@foosbot: result @matt.long @enekofb vs @mateus.pimenta.oc @andrew.morgan 10-5
+davibo [17:35]
+@foosbot: result @fahran @maartens vs @davibo @brett.mack 10-3
+davibo [17:35]
+@foosbot: result @fahran @maartens vs @davibo @brett.mack 10-5
+davibo [17:35]
+@foosbot: result @steve @maartens vs @davibo @brett.mack 1-10
+mateus.pimenta.oc [18:14]
+@foosbot: result @matt.long @enekofb vs @mateus.pimenta.oc @andrew.morgan 10-5
 ----- 2016-04-26 -----
-
-matt.long [12:31 PM]
-@foosbot result @matt.long @henry.barnett vs @andrew.morgan @antoniocobo 10-7
-
-matt.long [12:31 PM]
-@foosbot result @matt.long @antoniocobo vs @andrew.morgan  @henry.barnett 10-5
-
-
-brett.mack [1:13 PM]
-@foosbot result @brett.mack @sam-e  vs @tristan  @miles.wilson 10-4
-
-
-mateus.pimenta.oc [1:20 PM]
-@foosbot result @carloslindo @mateus.pimenta.oc vs @fahran @steve 10-8
-
-mateus.pimenta.oc [1:21 PM]
-@foosbot result @carloslindo @mateus.pimenta.oc vs @fahran @steve 6-10
-
-
-sam-e [1:29 PM]
-@foosbot result @brett.mack @sam-e  vs @tristan  @miles.wilson 10-5
-
-
-antoniocobo [4:18 PM]
-@foosbot result @enekofb @maartens vs @antoniocobo @andrew.morgan 8-10
-
-antoniocobo [4:18 PM]
-@foosbot result @enekofb @maartens vs @antoniocobo @andrew.morgan 1-10
-
-
-matt.long [4:37 PM]
-@foosbot result @matt.long @jeanmarie.ferdegue vs @tristan @maartens 10-1
-
-
-matt.long [4:37 PM]
-@foosbot result @matt.long @jeanmarie.ferdegue vs @tristan @maartens 10-3
-
-
-matt.long [5:19 PM]
-@foosbot result @matt.long @andrew.morgan vs @henry.barnett @mateus.pimenta.oc 10-8
-
-matt.long [5:19 PM]
-@foosbot result @matt.long @andrew.morgan vs @henry.barnett @mateus.pimenta.oc 6-10
-
-
-fahran [5:30 PM]
-@foosbot result @fahran @nickiwatt  vs @brett.mack  @sam-e 10-9
-
-
-davibo [5:41 PM]
-@foosbot result @brett.mack @carloslindo vs @davibo @norbert.annus 10-6
-
-
+matt.long [12:31]
+@foosbot: result @matt.long @henry.barnett vs @andrew.morgan @antoniocobo 10-7
+matt.long [12:31]
+@foosbot: result @matt.long @antoniocobo vs @andrew.morgan  @henry.barnett 10-5
+brett.mack [13:13]
+@foosbot: result @brett.mack @sam-e  vs @tristan  @miles.wilson 10-4
+mateus.pimenta.oc [13:20]
+@foosbot: result @carloslindo @mateus.pimenta.oc vs @fahran @steve 10-8
+mateus.pimenta.oc [13:21]
+@foosbot: result @carloslindo @mateus.pimenta.oc vs @fahran @steve 6-10
+sam-e [13:29]
+@foosbot: result @brett.mack @sam-e  vs @tristan  @miles.wilson 10-5
+antoniocobo [16:18]
+@foosbot: result @enekofb @maartens vs @antoniocobo @andrew.morgan 8-10
+antoniocobo [16:18]
+@foosbot: result @enekofb @maartens vs @antoniocobo @andrew.morgan 1-10
+matt.long [16:37]
+@foosbot: result @matt.long @jeanmarie.ferdegue vs @tristan @maartens 10-1
+matt.long [16:37]
+@foosbot: result @matt.long @jeanmarie.ferdegue vs @tristan @maartens 10-3
+matt.long [17:19]
+@foosbot: result @matt.long @andrew.morgan vs @henry.barnett @mateus.pimenta.oc 10-8
+matt.long [17:19]
+@foosbot: result @matt.long @andrew.morgan vs @henry.barnett @mateus.pimenta.oc 6-10
+fahran [17:30]
+@foosbot: result @fahran @nickiwatt  vs @brett.mack  @sam-e 10-9
+davibo [17:41]
+@foosbot: result @brett.mack @carloslindo vs @davibo @norbert.annus 10-6
 ----- 2016-04-27 -----
-
-sam-e [11:51 AM]
-@foosbot result @sam-e @brett.mack vs @maartens @carloslindo 10-9
-
-
-henry.barnett [12:24 PM]
-@foosbot result @henry.barnett @andrew.morgan vs @mateus.pimenta.oc @matt.long 10-8
-
-
-matt.long [12:25 PM]
-@foosbot result @matt.long @henry.barnett vs @mateus.pimenta.oc @tristan 10-3
-
-matt.long [12:25 PM]
-@foosbot result @matt.long @henry.barnett vs @mateus.pimenta.oc @tristan 10-6
-
-davibo [12:59 PM]
-@foosbot result @fahran @davibo vs @steve @maartens 10-3
-
-
-davibo [1:00 PM]
-@foosbot result @fahran @maartens vs @steve @davibo 10-7
-
-
-henry.barnett [3:58 PM]
-@foosbot result @henry.barnett @mateus.pimenta.oc vs @andrew.morgan @matt.long 10-7
-
-
-maartens [5:06 PM]
-@foosbot result @tristan @maartens vs @fahran @carloslindo 3-10
-
-
-maartens [5:06 PM]
-@foosbot result @tristan @maartens vs @fahran @carloslindo 3-10
-
-
-matt.long [6:13 PM]
-@foosbot result @matt.long @andrew.morgan vs @henry.barnett @mateus.pimenta.oc 10-6
-
-
-
+sam-e [11:51]
+@foosbot: result @sam-e @brett.mack vs @maartens @carloslindo 10-9
+henry.barnett [12:24]
+@foosbot: result @henry.barnett @andrew.morgan vs @mateus.pimenta.oc @matt.long 10-8
+matt.long [12:25]
+@foosbot: result @matt.long @henry.barnett vs @mateus.pimenta.oc @tristan 10-3
+matt.long [12:25]
+@foosbot: result @matt.long @henry.barnett vs @mateus.pimenta.oc @tristan 10-6
+davibo [12:59]
+@foosbot: result @fahran @davibo vs @steve @maartens 10-3
+davibo [13:00]
+@foosbot: result @fahran @maartens vs @steve @davibo 10-7
+henry.barnett [15:58]
+@foosbot: result @henry.barnett @mateus.pimenta.oc vs @andrew.morgan @matt.long 10-7
+maartens [17:06]
+@foosbot: result @tristan @maartens vs @fahran @carloslindo 3-10
+maartens [17:06]
+@foosbot: result @tristan @maartens vs @fahran @carloslindo 3-10
+matt.long [18:13]
+@foosbot: result @matt.long @andrew.morgan vs @henry.barnett @mateus.pimenta.oc 10-6
 ----- 2016-04-28 -----
-
-sam-e [11:27 AM]
-@foosbot result @sam-e @tristan vs @carloslindo @norbert.annus 10-5
-
-
-matt.long [12:10 PM]
-@foosbot result @matt.long @tareq  vs @enekofb  @henry.barnett  10-5
-
-
-matt.long [12:10 PM]
-@foosbot result @matt.long @tareq  vs @enekofb  @henry.barnett  5-10
-
-
-maartens [1:26 PM]
-@foosbot result @tareq @mateus.pimenta.oc vs @rafal.gancarz @maartens  4-10
-
-
-maartens [1:26 PM]
-@foosbot result @tareq @mateus.pimenta.oc vs @rafal.gancarz @maartens  10-8
-
-
-maartens [1:27 PM]
-@foosbot result @tareq @mateus.pimenta.oc vs @rafal.gancarz @maartens  10-5
-
-maartens [2:01 PM]
-@foosbot result @antoniocobo @rafal.gancarz vs @tristan @maartens  10-2
-
-
-maartens [2:01 PM]
-@foosbot result @rafal.gancarz @maartens vs @antoniocobo @tristan  10-8
-
-
-sam-e [4:00 PM]
-@foosbot result @antoniocobo @brett.mack vs @sam-e @steve 10-9
-
-
-sam-e [4:00 PM]
-@foosbot result @sam-e @steve vs @antoniocobo @brett.mack 10-7
-
-
-davibo [4:11 PM]
-@foosbot result @steve @davibo vs @tristan @mateus.pimenta.oc 10-8
-
-
-matt.long [5:53 PM]
-@foosbot result @matt.long @antoniocobo vs @norbert.annus @tareq 10-5
-
-matt.long [6:02 PM]
-@foosbot result @henry.barnett @rafal.gancarz vs @mateus.pimenta.oc @steve 10-5
-
-
-matt.long [6:25 PM]
-@foosbot result @henry.barnett @steve vs @tareq @mateus.pimenta.oc 3-10
-
-
-mateus.pimenta.oc [6:34 PM]
-@foosbot result @tristan @rafal.gancarz vs  @andrew.morgan @matt.long 10-9
-
-
-matt.long [6:56 PM]
-@foosbot result @tareq @andrew.morgan vs @rafal.gancarz @mateus.pimenta.oc 10-7
-
-
-rafal.gancarz [7:30 PM]
-@foosbot result @enekofb @mateus.pimenta.oc vs @norbert.annus @matt.long 10-6
-
-
-tareq [7:41 PM]
-@foosbot result @fahran @tareq vs @andrew.morgan @antoniocobo 10-6
-
-
-tareq [7:46 PM]
-@foosbot result @norbert.annus @enekofb vs @rafal.gancarz @fahran 2-10
-
-
-mateus.pimenta.oc [7:57 PM]
-@foosbot result @davibo @mateus.pimenta.oc vs @antoniocobo @matt.long 10-9
-
-
-matt.long [8:03 PM]
-@foosbot result @fahran @nickiwatt vs @davibo @rafal.gancarz 2-10
-
-
-
-davibo [8:17 PM]
-@foosbot result @rafal.gancarz @davibo vs @mateus.pimenta.oc @antoniocobo 8-10
-
-
-matt.long [8:26 PM]
-@foosbot result @fahran @rafal.gancarz vs  @mateus.pimenta.oc @matt.long 10-6
-
-
-davibo [9:07 PM]
-@foosbot result @rafal.gancarz @henry.barnett vs @davibo @tareq  10-9
-
-
-davibo [9:08 PM]
-@foosbot result @rafal.gancarz @tristan vs @tareq @davibo 9-10
-
-
-henry.barnett [9:24 PM]
-@foosbot result @Henry.barnett @tareq vs @tristan @matt.long 10-9
-
-
-henry.barnett [9:24 PM]
-@foosbot result @henry.barnett @tareq vs @tristan @matt.long 10-9
-
-
-rafal.gancarz [9:31 PM]
-@foosbot result @fahran @rafal.gancarz vs @davibo @mateus.pimenta.oc 10-4
-
+sam-e [11:27]
+@foosbot: result @sam-e @tristan vs @carloslindo @norbert.annus 10-5
+matt.long [12:10]
+@foosbot: result @matt.long @tareq  vs @enekofb  @henry.barnett  10-5
+matt.long [12:10]
+@foosbot: result @matt.long @tareq  vs @enekofb  @henry.barnett  5-10
+maartens [13:26]
+@foosbot: result @tareq @mateus.pimenta.oc vs @rafal.gancarz @maartens  4-10
+maartens [13:26]
+@foosbot: result @tareq @mateus.pimenta.oc vs @rafal.gancarz @maartens  10-8
+maartens [13:27]
+@foosbot: result @tareq @mateus.pimenta.oc vs @rafal.gancarz @maartens  10-5
+maartens [14:01]
+@foosbot: result @antoniocobo @rafal.gancarz vs @tristan @maartens  10-2
+maartens [14:01]
+@foosbot: result @rafal.gancarz @maartens vs @antonioncobo @tristan  10-8
+maartens [14:01]
+@foosbot: result @rafal.gancarz @maartens vs @antoniocobo @tristan  10-8
+sam-e [16:00]
+@foosbot: result @antoniocobo @brett.mack vs @sam-e @steve 10-9
+sam-e [16:00]
+@foosbot: result @sam-e @steve vs @antoniocobo @brett.mack 10-7
+davibo [16:11]
+@foosbot: result @steve @davibo vs @tristan @mateus.pimenta.oc 10-8
+matt.long [17:53]
+@foosbot: result @matt.long @antoniocobo vs @norbert.annus @tareq 10-5
+matt.long [18:02]
+@foosbot: result @henry.barnett @rafal.gancarz vs @mateus.pimenta.oc @steve 10-5
+matt.long [18:25]
+@foosbot: result @henry.barnett @steve vs @tareq @mateus.pimenta.oc 3-10
+mateus.pimenta.oc [18:34]
+@foosbot: result @tristan @rafal.gancarz vs  @andrew.morgan @matt.long 10-9
+matt.long [18:56]
+@foosbot: result @tareq @andrew.morgan vs @rafal.gancarz @mateus.pimenta.oc 10-7
+rafal.gancarz [19:30]
+@foosbot: result @enekofb @mateus.pimenta.oc vs @norbert.annus @matt.long 10-6
+tareq [19:41]
+@foosbot: result @fahran @tareq vs @andrew.morgan @antoniocobo 10-6
+tareq [19:46]
+@foosbot: result @norbert.annus @enekofb vs @rafal.gancarz @fahran 2-10
+mateus.pimenta.oc [19:57]
+@foosbot: result @davibo @mateus.pimenta.oc vs @antoniocobo @matt.long 10-9
+davibo [20:17]
+@foosbot: result @rafal.gancarz @davibo vs @mateus.pimenta.oc @antoniocobo 8-10
+davibo [21:07]
+@foosbot: result @rafal.gancarz @henry.barnett vs @davibo @tareq  10-9
+davibo [21:08]
+@foosbot: result @rafal.gancarz @tristan vs @tareq @davibo 9-10
+henry.barnett [21:24]
+@foosbot: result @Henry.barnett @tareq vs @tristan @matt.long 10-9
+rafal.gancarz [21:31]
+@foosbot: result @fahran @rafal.gancarz vs @davibo @mateus.pimenta.oc 10-4
 ----- 2016-04-29 -----
 
-antoniocobo [12:22 PM]
-@foosbot result @steve @andrew.morgan vs @maartens @antoniocobo 7-10
-
-
-antoniocobo [12:22 PM]
-@foosbot result @steve @andrew.morgan vs @maartens @antoniocobo 7-10
-
-
-antoniocobo [1:03 PM]
-@foosbot result @tristan @carloslindo vs @sam-e @mateus.pimenta.oc 10-4
-
-
-davibo [2:00 PM]
-@foosbot result @steve @sam-e vs @brett.mack @davibo 10-8
-
-
-davibo [2:00 PM]
-@foosbot result @steve @sam-e vs @brett.mack @davibo 8-10
-
-
-henry.barnett [2:32 PM]
-@foosbot result @matt.long @antoniocobo vs @henry.barnett @enekofb 10-7
-
-
-andrew.morgan [3:46 PM]
-@foosbot result @andrew.morgan @maartens vs @tareq @jeanmarie.ferdegue 10-7
-
-
-
-andrew.morgan [3:46 PM]
-@foosbot result @andrew.morgan @maartens vs @tareq @jeanmarie.ferdegue 10-8
-
-
-fahran [4:50 PM]
-@foosbot result @brett.mack @norbert.annus vs @fahran @nickiwatt 8-10
-
-
-fahran [4:51 PM]
-@foosbot result @brett.mack @norbert.annus vs @fahran @nickiwatt 10-8
-
-
-tristan [5:05 PM]
-@foosbot result @carloslindo @tristan vs @steve @sam-e 10-3
-
-
-tristan [5:05 PM]
-@foosbot result @carloslindo @tristan vs @steve @sam-e 10-9
-
-henry.barnett [5:20 PM]
-@foosbot result @antoniocobo @davibo vs @henry.barnett @matt.long 8-10
-
-
-henry.barnett [5:21 PM]
-@foosbot result @antoniocobo @davibo vs @henry.barnett @matt.long 9-10
-
-
-fahran [6:16 PM]
-@foosbot result @maartens @sam-e vs @brett.mack @fahran 3-10
-
-
-matt.long [7:09 PM]
-@foosbot result @matt.long @henry.barnett vs @jeanmarie.ferdegue @davibo 5-10
-
-
-matt.long [7:09 PM]
-@foosbot result @matt.long @henry.barnett vs @jeanmarie.ferdegue @davibo 10-4
-
-
-carloslindo [7:29 PM]
-@foosbot result @sam-e @carloslindo vs @maartens @brett.mack 10-4
-
-
-carloslindo [7:29 PM]
-@foosbot result @sam-e @carloslindo vs @maartens @brett.mack 10-5
-
-
+antoniocobo [12:22]
+@foosbot: result @steve @andrew.morgan vs @maartens @antoniocobo 7-10
+antoniocobo [12:22]
+@foosbot: result @steve @andrew.morgan vs @maartens @antoniocobo 7-10
+davibo [14:00]
+@foosbot: result @steve @sam-e vs @brett.mack @davibo 10-8
+davibo [14:00]
+@foosbot: result @steve @sam-e vs @brett.mack @davibo 8-10
+henry.barnett [14:32]
+@foosbot: result @matt.long @antoniocobo vs @henry.barnett @enekofb 10-7
+andrew.morgan [15:46]
+@foosbot: result @andrew.morgan @maartens vs @tareq @jeanmarie.ferdegue 10-7
+andrew.morgan [15:46]
+@foosbot: result @andrew.morgan @maartens vs @tareq @jeanmarie.ferdegue 10-8
+fahran [16:50]
+@foosbot: result @brett.mack @norbert.annus vs @fahran @nickiwatt 8-10
+fahran [16:51]
+@foosbot: result @brett.mack @norbert.annus vs @fahran @nickiwatt 10-8
+tristan [17:05]
+@foosbot: result @carloslindo @tristan vs @steve @sam-e 10-3
+tristan [17:05]
+@foosbot: result @carloslindo @tristan vs @steve @sam-e 10-9
+henry.barnett [17:20]
+@foosbot: result @antoniocobo @davibo vs @henry.barnett @matt.long 8-10
+henry.barnett [17:21]
+@foosbot: result @antoniocobo @davibo vs @henry.barnett @matt.long 9-10
+fahran [18:16]
+@foosbot: result @maartens @sam-e vs @brett.mack @fahran 3-10
+matt.long [19:09]
+@foosbot: result @matt.long @henry.barnett vs @jeanmarie.ferdegue @davibo 5-10
+matt.long [19:09]
+@foosbot: result @matt.long @henry.barnett vs @jeanmarie.ferdegue @davibo 10-4
+carloslindo [19:29]
+@foosbot: result @sam-e @carloslindo vs @maartens @brett.mack 10-4
+carloslindo [19:29]
+@foosbot: result @sam-e @carloslindo vs @maartens @brett.mack 10-5
 ----- 2016-05-03 -----
-
-
-tristan [1:21 PM]
-@foosbot result @tristan @fahran vs @davibo @mateus.pimenta.oc 10-4
-
-
-tristan [1:21 PM]
-@foosbot result @tristan @fahran vs @davibo @mateus.pimenta.oc 10-4
-
-
-matt.long [5:26 PM]
-@foosbot result @matt.long @henry.barnett vs @antoniocobo @maartens 9-10
-
-
-antoniocobo [5:36 PM]
-@foosbot result @tareq @henry.barnett vs @maartens @antoniocobo 10-9
-
-
-andrew.morgan [6:11 PM]
-@foosbot result @andrew.morgan @enekofb vs @jeanmarie.ferdegue @tristan 10-8
-
-
------ 2016-05-04  -----
-
-
-antoniocobo [12:11 PM]
-@foosbot result @maartens @antoniocobo vs @tristan @matt.long 10-3
-
-
-antoniocobo [4:16 PM]
-@foosbot result @henry.barnett @antoniocobo vs @enekofb @matt.long 10-8
-
-
-antoniocobo [4:16 PM]
-@foosbot result @antoniocobo @enekofb  vs @henry.barnett @matt.long 10-5
-
-
+tristan [13:21]
+@foosbot: result @tristan @fahran vs @davibo @mateus.pimenta.oc 10-4
+tristan [13:21]
+@foosbot: result @tristan @fahran vs @davibo @mateus.pimenta.oc 10-4
+matt.long [17:26]
+@foosbot: result @matt.long @henry.barnett vs @antoniocobo @maartens 9-10
+antoniocobo [17:36]
+@foosbot: result @tareq @henry.barnett vs @maartens @antoniocobo 10-9
+andrew.morgan [18:11]
+@foosbot: result @andrew.morgan @enekofb vs @jeanmarie.ferdegue @tristan 10-8
+----- 2016-05-04 -----
+antoniocobo [12:11]
+@foosbot: result @maartens @antoniocobo vs @tristan @matt.long 10-3
+antoniocobo [16:16]
+@foosbot: result @henry.barnett @antoniocobo vs @enekofb @matt.long 10-8
+antoniocobo [16:16]
+@foosbot: result @antoniocobo @enekofb  vs @henry.barnett @matt.long 10-5
 ----- 2016-05-05 -----
 
-matt.long [12:12 PM]
-@foosbot result @matt.long @tristan vs @andrew.morgan @norbert.annus 10-2
-
-
-henry.barnett [3:42 PM]
-@foosbot result @matt.long @henry.barnett vs @antoniocobo @maartens 10-7
-
-
-henry.barnett [3:42 PM]
-@foosbot result @matt.long @henry.barnett vs @antoniocobo @maartens 10-3
-
-
-antoniocobo [4:52 PM]
-@foosbot result @henry.barnett @maartens vs @jeanmarie.ferdegue @antoniocobo 2-10
-
-
-antoniocobo [4:52 PM]
-@foosbot result @henry.barnett @maartens vs @jeanmarie.ferdegue @antoniocobo 10-7
-
-
-davibo [5:38 PM]
-@foosbot result @mateus.pimenta.oc @tristan vs @steve @davibo 9-10
-
-
-antoniocobo [6:09 PM]
-@foosbot result @norbert.annus @henry.barnett vs @matt.long @andrew.morgan 10-9
-
-
-antoniocobo [6:30 PM]
-@foosbot result @norbert.annus @henry.barnett vs @antoniocobo @matt.long 5-10
-
-
-antoniocobo [6:31 PM]
-@foosbot result @maartens  @matt.long  vs @antoniocobo @henry.barnett  10-7
-
-
+matt.long [12:12]
+@foosbot: result @matt.long @tristan vs @andrew.morgan @norbert.annus 10-2
+henry.barnett [15:42]
+@foosbot: result @matt.long @henry.barnett vs @antoniocobo @maartens 10-7
+henry.barnett [15:42]
+@foosbot: result @matt.long @henry.barnett vs @antoniocobo @maartens 10-3
+antoniocobo [16:52]
+@foosbot: result @henry.barnett @maartens vs @jeanmarie.ferdegue @antoniocobo 2-10
+antoniocobo [16:52]
+@foosbot: result @henry.barnett @maartens vs @jeanmarie.ferdegue @antoniocobo 10-7
+davibo [17:38]
+@foosbot: result @mateus.pimenta.oc @tristan vs @steve @davibo 9-10
+antoniocobo [18:30]
+@foosbot: result @norbert.annus @henry.barnett vs @antoniocobo @matt.long 5-10
+antoniocobo [18:31]
+@foosbot: result @maartens  @matt.long  vs @antoniocobo @henry.barnett  10-7
 ----- 2016-05-06 -----
+matt.long [12:20]
+@foosbot: result @matt.long @jeanmarie.ferdegue vs @maartens @norbert.annus 10-3
+matt.long [13:34]
+@foosbot: result @henry.barnett @matt.long vs @benjih @andrew.morgan 10-4
+matt.long [13:34]
+@foosbot: result @matt.long @andrew.morgan vs @benjih @henry.barnett  10-4
+antoniocobo [14:16]
+@foosbot: result @andrew.morgan @benjih vs @maartens @antoniocobo 2-10
+maartens [14:38]
+@foosbot: result @steve @maartens vs @sam-e @brett.mack 10-5
+maartens [14:38]
+@foosbot: result @steve @maartens vs @sam-e @brett.mack 8-10
+antoniocobo [15:33]
+@foosbot: result @henry.barnett @antoniocobo vs @maartens @bspaans 10-5
+antoniocobo [15:34]
+@foosbot: result @maartens @antoniocobo vs @henry.barnett @bspaans 10-5
+antoniocobo [17:23]
+@foosbot: result @henry.barnett @antoniocobo vs @norbert.annus @tristan 10-5
+matt.long [18:05]
+@foosbot: result @matt.long @henry.barnett vs @tristan @maartens 10-3
+matt.long [18:11]
+@foosbot: result @tristan @henry.barnett vs @enekofb @maartens 10-4
+matt.long [18:25]
+@foosbot: result @tristan @matt.long vs @andrew.morgan @maartens 8-10
+matt.long [18:38]
+@foosbot: result @maartens @enekofb vs @davibo @henry.barnett 10-9
+matt.long [18:43]
+@foosbot: result @henry.barnett @davibo vs @fahran @tristan 10-3
+matt.long [19:01]
+@foosbot: result @fahran @maartens vs @tristan @henry.barnett 10-6
+tristan [19:11]
+@foosbot: result @tristan @henry.barnett vs @mateus.pimenta.oc @enekofb 10-9
+----- 2016-05-09 -----
+maartens [15:36]
+@foosbot: result @antoniocobo @andrew.morgan vs @maartens @matt.long 10-5
+maartens [15:36]
+@foosbot: result @antoniocobo @andrew.morgan vs @maartens @matt.long 3-10
+----- 2016-05-10 -----
 
-matt.long [12:20 PM]
-@foosbot result @matt.long @jeanmarie.ferdegue vs @maartens @norbert.annus 10-3
-
-
-antoniocobo [12:32 PM]
-@foosbot result @tareq @henry.barnett vs @maartens @jeanmarie.ferdegue 10-1
-
-
-henry.barnett [12:38 PM]
-@foosbot result @tareq @henry.barnett vs @maartens @jeanmarie.ferdegue 10-7
-
-
-matt.long [1:34 PM]
-@foosbot result @henry.barnett @matt.long vs @benjih @andrew.morgan 10-4
-
-
-matt.long [1:34 PM]
-@foosbot result @matt.long @andrew.morgan vs @benjih @henry.barnett  10-4
-
-
-
-antoniocobo [2:16 PM]
-@foosbot result @andrew.morgan @benjih vs @maartens @antoniocobo 2-10
-
-
-maartens [2:38 PM]
-@foosbot result @steve @maartens vs @sam-e @brett.mack 10-5
-
-
-maartens [2:38 PM]
-@foosbot result @steve @maartens vs @sam-e @brett.mack 8-10
-
-
-antoniocobo [3:33 PM]
-@foosbot result @henry.barnett @antoniocobo vs @maartens @bspaans 10-5
-
-
-antoniocobo [3:34 PM]
-@foosbot result @maartens @antoniocobo vs @henry.barnett @bspaans 10-5
-
-
-fahran [5:13 PM]
-@foosbot result @tristan @davibo vs @fahran @norbert.annus 10-9
-
-
-antoniocobo [5:23 PM]
-@foosbot result @henry.barnett @antoniocobo vs @norbert.annus @tristan 10-5
-
-
-matt.long [6:05 PM]
-@foosbot result @matt.long @henry.barnett vs @tristan @maartens 10-3
-
-
-matt.long [6:11 PM]
-@foosbot result @tristan @henry.barnett vs @enekofb @maartens 10-4
-
-
-matt.long [6:25 PM]
-@foosbot result @tristan @matt.long vs @andrew.morgan @maartens 8-10
-
-
-matt.long [6:38 PM]
-@foosbot result @maartens @enekofb vs @davibo @henry.barnett 10-9
-
-
-matt.long [6:43 PM]
-@foosbot result @henry.barnett @davibo vs @fahran @tristan 10-3
-
-
-matt.long [7:01 PM]
-@foosbot result @fahran @maartens vs @mateus.pimenta.oc @enekofb 10-6
-
-
-matt.long [7:01 PM]
-@foosbot result @fahran @maartens vs @tristan @henry.barnett 10-6
-
-
-tristan [7:11 PM]
-@foosbot result @tristan @henry.barnett vs @mateus.pimenta.oc @enekofb 10-9
+davibo [13:04]
+@foosbot: result @steve @matt.long vs @tristan @davibo 6-10
+antoniocobo [13:33]
+@foosbot: result @maartens @antoniocobo vs @benjih @bspaans 10-0
+matt.long [16:58]
+@foosbot: result @matt.long @antoniocobo vs @fahran @carloslindo 7-10
+matt.long [16:58]
+@foosbot: result @matt.long @antoniocobo vs @fahran @carloslindo 10-8
+antoniocobo [17:27]
+@foosbot: result @benjih @antoniocobo vs @maartens @andrew.morgan 10-7
+matt.long [18:06]
+@foosbot: result @benjih @matt.long vs @antoniocobo @enekofb 10-6
+matt.long [18:06]
+@foosbot: result @benjih @matt.long vs @antoniocobo @enekofb 10-7
+----- 2016-05-11 -----
+maartens [11:53]
+@foosbot: result @sam-e @maartens vs @steve @brett.mack 10-9
+maartens [11:53]
+@foosbot: result @sam-e @maartens vs @steve @brett.mack 8-10
+antoniocobo [12:19]
+@foosbot: result @norbert.annus @andrew.morgan vs @benjih @antoniocobo 10-9
+matt.long [13:17]
+@foosbot: result @matt.long @henry.barnett vs @andrew.morgan @antoniocobo 10-9
+matt.long [13:17]
+@foosbot: result @matt.long @henry.barnett vs @andrew.morgan @antoniocobo 5-10
+antoniocobo [13:53]
+@foosbot: result @tareq @antoniocobo vs @maartens @jeanmarie.ferdegue 10-6
+antoniocobo [13:53]
+@foosbot: result @tareq @antoniocobo vs @maartens @jeanmarie.ferdegue 10-4
+brett.mack [15:51]
+@foosbot: result @mateus.pimenta.oc @brett.mack vs @steve @sam-e 10-2
+brett.mack [15:51]
+@foosbot: result @mateus.pimenta.oc @brett.mack vs @steve @sam-e 10-3
+antoniocobo [16:37]
+@foosbot: result @benjih @andrew.morgan vs @maartens @antoniocobo 2-10
+antoniocobo [16:37]
+@foosbot: result @benjih @andrew.morgan vs @maartens @antoniocobo 1-10
+davibo [18:10]
+@foosbot: result @brett.mack @fahran vs @carloslindo @davibo 10-4
+davibo [18:10]
+@foosbot: result @brett.mack @fahran vs @carloslindo @davibo 4-10
+matt.long [18:16]
+@foosbot: result @matt.long @maartens vs @fahran @brett.mack 8-10
+----- 2016-05-12 -----
+sam-e [11:23]
+@foosbot: result @sam-e @mateus.pimenta.oc  vs @brett.mack @norbert.annus 10-4
+matt.long [11:25]
+@foosbot: result @sam-e @steve vs @brett.mack @norbert.annus 10-1
+matt.long [13:21]
+@foosbot: result @matt.long @maartens vs @mateus.pimenta.oc @benjih 10-7
+antoniocobo [14:19]
+@foosbot: result @brett.mack @sam-e vs @maartens @antoniocobo 10-9
+antoniocobo [14:19]
+@foosbot: result @brett.mack @sam-e vs @maartens @antoniocobo 5-10
+davibo [16:26]
+@foosbot: result @davibo @maartens vs @brett.mack @sam-e 7-10
+davibo [16:26]
+@foosbot: result @davibo @maartens vs @brett.mack @sam-e 10-6
+antoniocobo [17:14]
+@foosbot: result @pegerto @jeanmarie.ferdegue vs @rafal.gancarz @antoniocobo 2-10
+antoniocobo [17:14]
+@foosbot: result @rafal.gancarz @jeanmarie.ferdegue vs @pegerto @antoniocobo 2-10
+rafal.gancarz [17:31]
+@foosbot: result @rafal.gancarz @enekofb vs @henry.barnett @matt.long 10-4
+rafal.gancarz [17:32]
+@foosbot: result @rafal.gancarz @enekofb vs @henry.barnett @matt.long 10-6
+mateus.pimenta.oc [19:03]
+@foosbot: result @fahran @davibo vs @henry.barnett @mateus.pimenta.oc 10-6
+----- 2016-05-13 -----
+sam-e [11:04]
+@foosbot: result @sam-e @brett.mack vs @carloslindo @andrew.morgan 3-10
+sam-e [11:04]
+@foosbot: result @sam-e @brett.mack vs @carloslindo @andrew.morgan 10-5
+antoniocobo [14:09]
+@foosbot: result @maartens @sam-e vs @antoniocobo @brett.mack 3-10
+antoniocobo [14:10]
+@foosbot: result @maartens @sam-e vs @antoniocobo @brett.mack 10-5
+antoniocobo [17:13]
+@foosbot: result @antoniocobo @brett.mack vs @maartens @sam-e 10-8
+antoniocobo [17:14]
+@foosbot: result @antoniocobo @brett.mack vs @maartens @sam-e 10-3
+----- 2016-05-16 -----
+antoniocobo [15:38]
+@foosbot: result @maartens @antoniocobo vs @enekofb @norbert 10-3
+antoniocobo [15:38]
+@foosbot: result @maartens @antoniocobo vs @enekofb @norbert.annus  10-3
+antoniocobo [15:39]
+@foosbot: result @norbert.annus @antoniocobo vs @enekofb @maartens 7-10
+tristan [18:01]
+@foosbot: result @davibo @tristan vs @jeanmarie.ferdegue @andrew.morgan 10-9
+tristan [18:02]
+@foosbot: result @maartens @tristan vs @jeanmarie.ferdegue @andrew.morgan 7-10
+----- 2016-05-17 -----
+antoniocobo [13:04]
+@foosbot: result @andrew.morgan @tareq vs @antoniocobo @maartens 4-10
+tristan [13:35]
+@foosbot: result @maartens @tristan vs @norbert.annus @carloslindo 10-7
+antoniocobo [16:21]
+@foosbot: result @andrew.morgan @maartens vs @matt.long @antoniocobo 5-10
+antoniocobo [17:27]
+@foosbot: result @norbert.annus @mateus.pimenta.oc vs @tristan @antoniocobo 2-10
+carloslindo [18:12]
+@foosbot: result @tristan @mateus.pimenta.oc vs @andrew.morgan @carloslindo 2-10
+carloslindo [18:13]
+@foosbot: result @tristan @mateus.pimenta.oc vs @andrew.morgan @carloslindo 9-10
+----- 2016-05-19 -----
+sam-e [11:59]
+@foosbot: result @sam-e @mateus.pimenta.oc vs @brett.mack @miles.wilson 10-1
+sam-e [12:00]
+@foosbot: result @sam-e @mateus.pimenta.oc vs @brett.mack @miles.wilson 10-2
+antoniocobo [14:08]
+@foosbot: result @brett.mack @maartens vs @sam-e @antoniocobo 3-10
+antoniocobo [14:08]
+@foosbot: result @brett.mack @maartens vs @sam-e @antoniocobo 2-10
+tristan [16:06]
+@foosbot: result @andrew.morgan @tristan vs @carloslindo @maartens 10-6
+antoniocobo [17:36]
+@foosbot: result @tareq @brett.mack vs @maartens @antoniocobo 8-10
+antoniocobo [17:37]
+@foosbot: result @tareq @brett.mack vs @maartens @antoniocobo 5-10
+maartens [17:51]
+@foosbot: result @tareq @matt.long  vs @maartens @brett.mack 10-8
+andrew.morgan [18:04]
+@foosbot: result @enekofb@and drew.morgan vs @tom.cunliffe @benjih 10-5
+matt.long [18:05]
+@foosbot: result @enekofb @andrew.morgan vs @tom.cunliffe @benjih 10-5
+andrew.morgan [18:12]
+@foosbot: result @enekofb @andrew.morgan vs @tom.cunliffe @benjih 10-2
+andrew.morgan [18:18]
+@foosbot: result @enekofb @andrew.morgan vs @tom.cunliffe @davidb 10-5
+davibo [18:36]
+@foosbot: result @enekofb @andrew.morgan vs @tom.cunliffe @davibo 10-5
+davibo [18:37]
+@foosbot: result @mateus.pimenta.oc @tareq vs @andrew.morgan @davibo 10-6
+davibo [18:37]
+@foosbot: result @mateus.pimenta.oc @tareq vs @andrew.morgan @davibo 8-10
+----- 2016-05-20 -----
+benjih [11:09]
+@foosbot: result @andrew.morgan @brett.mack vs @sam-e @benjih 7-10
+benjih [11:10]
+@foosbot: result @andrew.morgan @brett.mack vs @sam-e @benjih 10-7
+benjih [11:10]
+@foosbot: result @andrew.morgan @brett.mack vs @sam-e @benjih 10-8
+antoniocobo [13:24]
+@foosbot: result @pegerto @antoniocobo vs @maartens @carloslindo 10-4
+antoniocobo [13:25]
+@foosbot: result @pegerto @antoniocobo vs @maartens @carloslindo 10-4
+brett.mack [15:00]
+@foosbot: result @brett.mack @maartens vs @sam-e @pegerto 6-10
+brett.mack [15:00]
+@foosbot: result @brett.mack @maartens vs @sam-e @pegerto 8-10
+maartens [17:52]
+@foosbot: result @maartens @tareq vs @antoniocobo @enekofb 6-10
+antoniocobo [18:00]
+@foosbot: result @steve @brett.mack vs @sam-e @antoniocobo 10-9
+steve [18:20]
+@foosbot: result @steve @brett.mack vs @sam-e @maartens 10-6
+steve [18:21]
+@foosbot: result @steve @brett.mack vs @sam-e @maartens 10-3
+----- 2016-05-23 -----
+davibo [13:08]
+@foosbot: result @tristan @mateus.pimenta.oc vs @carloslindo @davibo 2-10
+davibo [13:08]
+@foosbot: result @tristan @mateus.pimenta.oc vs @carloslindo @davibo 5-10
+antoniocobo [13:27]
+@foosbot: result @steve @sam-e vs @andrew.morgan @antoniocobo 2-10
+antoniocobo [13:27]
+@foosbot: result @steve @sam-e vs @andrew.morgan @antoniocobo 4-10
+sam-e [16:53]
+@foosbot: result @sam-e @andrew.morgan vs @rafal.gancarz @maartens 8-10
+carloslindo [17:13]
+@foosbot: result @tristan @matt.long vs @norbert.annus @carlos.lindo 7-10
+carloslindo [17:13]
+@foosbot: result @tristan @matt.long vs @norbert.annus @carloslindo 7-10
+----- 2016-05-24 -----
+antoniocobo [12:57]
+@foosbot: result @enekofb @matt.long vs @mateus.pimenta.oc @antoniocobo 7-10
+maartens [13:22]
+@foosbot: result @maartens @tristan vs @tareq @matt.long 10-7
+fahran [13:27]
+@foosbot: result @fahran @enekofb vs @tareq @tristan 10-3
+andrew.morgan [14:16]
+@foosbot: result @henry.barnett @andrew.morgan vs @benjih @norbert.annus 10-1
+maartens [15:40]
+@foosbot: result @brett.mack @maartens vs @carloslindo @mateus.pimenta.oc 8-10
+antoniocobo [17:25]
+@foosbot: result @andrew.morgan @antoniocobo vs @benjih @maartens 10-2
+antoniocobo [17:26]
+@foosbot: result @benjih @antoniocobo vs @andrew.morgan @maartens 10-8
+----- 2016-05-25 -----
+maartens [12:39]
+@foosbot: result @steve @sam-e vs @maartens @brett.mack 7-10
+maartens [12:39]
+@foosbot: result @steve @sam-e vs @maartens @brett.mack 2-10
+maartens [15:07]
+@foosbot: result @brett.mack @maartens vs @antoniocobo @mateus.pimenta.oc 5-10
+maartens [15:07]
+@foosbot: result @brett.mack @maartens vs @antoniocobo @mateus.pimenta.oc 1-10
+benjih [16:35]
+@foosbot: result @benjih @maartens vs @andrew.morgan @tom.cunliffe 10-8
+----- 2016-05-26 -----
+mateus.pimenta.oc [13:14]
+@foosbot: result @tristan @mateus.pimenta.oc vs @carloslindo @steve 10-9
+antoniocobo [13:30]
+@foosbot: result @andrew.morgan @sam-e vs @brett.mack @antoniocobo 10-6
+antoniocobo [14:08]
+@foosbot: result @enekofb @maartens vs @rafal.gancarz @antoniocobo 1-10
+antoniocobo [14:08]
+@foosbot: result @enekofb @maartens vs @rafal.gancarz @antoniocobo 1-10
+sam-e [15:46]
+@foosbot: result @steve @sam-e vs @brett.mack @maartens 10-9
+sam-e [15:46]
+@foosbot: result @steve @sam-e vs @brett.mack @maartens 10-6
+----- 2016-05-27 -----
+antoniocobo [13:07]
+@foosbot: result @jeanmarie.ferdegue @maartens vs @brett.mack @antoniocobo 5-10
+antoniocobo [13:07]
+@foosbot: result @jeanmarie.ferdegue @maartens vs @brett.mack @antoniocobo 7-10
+carloslindo [13:29]
+@foosbot: result @andrew.morgan  @carloslindo vs @benjih  @norbert.annus  10-4
+carloslindo [13:29]
+@foosbot: result @tom.cunliffe   @carloslindo vs @benjih  @norbert.annus  10-8
+maartens [15:56]
+@foosbot: result @maartens @sam-e vs @andrew.morgan @antoniocobo 8-10
+mateus.pimenta.oc [17:11]
+@foosbot: result @andrew.morgan @mateus.pimenta.oc vs @norbert.annus @carloslindo 10-8
+----- 2016-05-31 -----
+sam-e [12:17]
+@foosbot: result @sam-e @mateus.pimenta.oc vs @brett.mack @fahran 10-8
+antoniocobo [16:32]
+@foosbot: result @brett.mack @sam-e vs @maartens @antoniocobo 8-10
+antoniocobo [16:32]
+@foosbot: result @brett.mack @sam-e vs @maartens @antoniocobo 1-10
+----- 2016-06-01 -----
+sam-e [11:03]
+@foosbot: result @sam-e @mateus.pimenta.oc vs @brett.mack @maartens 10-4
+antoniocobo [14:33]
+@foosbot: result @andrew.morgan @bspaans vs @benjih @antoniocobo 10-9
+brett.mack [14:49]
+@foosbot: result @matt.long @brett.mack vs @sam-e @maartens 10-3
+brett.mack [14:50]
+@foosbot: result @matt.long @brett.mack vs @sam-e @maartens 10-3
+fahran [19:23]
+@foosbot: result @fahran @carloslindo vs @davibo @carloslindo 10-3
+----- 2016-06-02 -----
+sam-e [10:42]
+@foosbot: result @sam-e @maartens vs @brett.mack @norbert.annus 10-5
+sam-e [10:42]
+@foosbot: result @sam-e @maartens vs @brett.mack @norbert.annus 10-9
+maartens [17:50]
+@foosbot: result @fahran @brett.mack vs @davibo @maartens 10-8
+mateus.pimenta.oc [17:52]
+@foosbot: result @fahran @mateus.pimenta.oc vs @davibo @sam-e 10-3
+----- 2016-06-03 -----
+antoniocobo [11:53]
+@foosbot: result @jeanmarie.ferdegue @maartens vs @enekofb @antoniocobo 6-10
+antoniocobo [11:53]
+@foosbot: result @jeanmarie.ferdegue @maartens vs @enekofb @antoniocobo 5-10
+antoniocobo [14:28]
+@foosbot: result @maartens @andrew.morgan vs @pegerto @antoniocobo 10-5

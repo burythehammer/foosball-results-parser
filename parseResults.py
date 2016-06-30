@@ -1,5 +1,6 @@
 import dateutil.parser
 import jsonpickle
+
 from FoosballResult import FoosballResult
 
 INPUT_FILE_PATH = "raw_results.txt"
@@ -12,12 +13,13 @@ def parse_date(input_date):
 
 
 def get_result_map(symbols):
+    print symbols
     result = {
         'reporter': '@' + symbols[0],
-        'time': symbols[1] + symbols[2],
-        'team1': (symbols[5], symbols[6]),
-        'team2': (symbols[8], symbols[9]),
-        'score': symbols[10]
+        'time': symbols[1],
+        'team1': (symbols[4], symbols[5]),
+        'team2': (symbols[7], symbols[8]),
+        'score': symbols[9]
     }
     return result
 
@@ -60,4 +62,3 @@ serialized = jsonpickle.encode(results)
 
 f = open(OUTPUT_FILE_PATH, 'w')
 f.write(serialized)
-
